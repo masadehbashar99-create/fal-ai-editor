@@ -1,0 +1,18 @@
+.example {
+  color: blue;
+  font-size: 16px;
+}
+
+.header {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
+
+.button {
+  background-color: green;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+}
